@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Học JS",
+      "description": "Javascript"
+    },
+    {
+      "id": 2,
+      "name": "Học Ruby",
+      "description": "Ruby"
+    },
+    {
+      "name": "Học C/ C#",
+      "description": "C/ C#",
+      "id": 3
+    }
+  ]
+}
